@@ -1,7 +1,2 @@
 # Página Android
- Repositório da página web realizada
-
-
-Nova linha teste.
-
----------------
+ Página Web feita com HTML5 e CSS3
